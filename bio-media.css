@@ -35,5 +35,12 @@
 
 }
 
+@media screen and (max-width: 950px) {
+    .header{
+        height: 225px;
+    }
+
+}
+
 
 
