@@ -1,0 +1,36 @@
+@media screen and (max-width: 480px) {
+    .header{
+        height: 175px;
+    }
+    .header ul{
+        float: left;
+    }
+    .info-parent{
+        
+        width: 95%;
+        margin-left: 2.5;
+    }
+    .info{
+        width: 90%;    
+    }
+    
+    .info h1{
+    font-size: 35px;
+}
+
+    .info p{
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .info{
+        width: 90%;    
+    }
+    #enter{
+        width: 40%;
+    }
+    
+    
+}
+

@@ -1,0 +1,39 @@
+@media screen and (max-width: 950px) {
+    .individual-content img{
+        width: 35%;
+    }
+    
+    .individual-content p{    
+        width: 50%;
+    }
+
+}
+
+@media screen and (max-width: 680px) { 
+    .header{
+        height: 175px;
+    }
+    .header ul{
+        float: left;
+        margin-right: 2.5%;
+    }
+    .individual-content img{
+        width: 70%;
+        margin-left:15%;
+        margin-right:15%;
+    }
+    
+    .individual-content p{
+        width: 70%;
+        margin-left:15%;
+        margin-right:15%;
+        font-size: 18px;
+    }
+    .header h1{
+        width: 80%;
+    }
+
+}
+
+
+
