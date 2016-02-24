@@ -38,9 +38,9 @@
     font-size: 40px;
     
     /*Header Name Color*/
-    color: black;
+    color: white;
     font-family: 'Lato', sans-serif;
-    text-shadow: 2px 1px 0px white;
+    /*text-shadow: 2px 1px 0px white;*/
 }
 
 .header ul{
@@ -114,7 +114,7 @@
 }
 
 #current-blog-button a:hover {
-    color: brown;
+    color: black;
     background-color: white;
 }
 
@@ -166,7 +166,7 @@
     text-align: left;
     
     /*Article Title Font Color*/
-    color: slategray;
+    color: black;
     padding-bottom: 15px;
 }
 
@@ -187,7 +187,7 @@
     margin-left: 5%;
     margin-right: 5%;
     text-align: left;
-    color: slategray;
+    color: black;
     padding: 5px;
 }
 
@@ -205,6 +205,17 @@
     color: slategray;
     padding: 5px;
 }
+.info h5 {
+    font-family: 'Lato', sans-serif;
+    font-weight: normal;
+    font-size: 18px;
+    width:85%;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+    text-align: left;
+    color: black;
+    padding: 5px;
+}
 
 .info p {
     font-family: 'Lato', sans-serif;
@@ -214,7 +225,7 @@
     margin-left: 5%;
     margin-right: 5%;
     text-align: left;
-    color: slategray;
+    color: black;
     padding: 5px;
 }
 
@@ -237,7 +248,7 @@
 }
 
 .info a h3:hover {
-    color: darkgrey;
+    color: slategray;
 }
 
 /*-----------------------------------------------------------
