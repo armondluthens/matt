@@ -23,7 +23,7 @@
 .header{
     height: 150px;
     float: left;
-    border-bottom: 2px solid white;
+    /*border-bottom: 2px solid white;*/
     width: 100%;
 }
 
